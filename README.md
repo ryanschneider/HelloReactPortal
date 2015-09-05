@@ -11,7 +11,7 @@ I skimmed over this in the presentation, but here's some more detailed instructi
 
 NOTE: React Native (and pretty much all iOS development) requires a Mac running OS X.  Apologies to any students who don't have access to one.
 
-# Installing Requirements
+### Installing Requirements
 
 First off, I installed iojs, the "new" fork of node.js.  I just used their package file here:
 
@@ -34,10 +34,11 @@ brew install watchman
 brew install flow
 ```
 
-And now that you have the prereqs, let's install the `react-native` tool:
+And now that you have the prereqs, let's install the `react-native` tool.  Again, in your Terminal:
 
 ```bash
 npm install -g react-native-cli
 ```
 
 Now, you can make your own react projects instead of cloning this repo.
+
